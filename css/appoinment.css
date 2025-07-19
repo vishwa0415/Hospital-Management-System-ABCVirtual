@@ -1,0 +1,31 @@
+/*register appoinments*/
+.aa-lob{
+    height:800px !important;
+}
+
+
+
+/*view  appoinments*/
+ th{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 900 !important;
+}
+td{
+    color: rgb(41, 100, 146) !important;
+}
+.aa-boxv{
+    height: 730px;
+    width: 1250px;
+    background-color: rgba(255, 255, 255, 0.751);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px rgb(0, 0, 0);
+}
+.aa-boxv h1{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 100 !important;
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.2rem;
+}

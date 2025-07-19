@@ -1,0 +1,142 @@
+/*register receptionists*/
+.ar-lob{
+    height:800px !important;
+}
+.ar-box{
+    height: 730px;
+    width: 900px;
+    background-color: rgba(255, 255, 255, 0.914);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px rgb(0, 0, 0);
+}
+.do{
+        margin-left: 70px;
+    width: 350px;
+    height: 45px;
+    border:solid rgba(186, 221, 255, 0.705);
+    border-radius: 10px;
+    background-color: transparent;
+    box-shadow: 0, 2px, 2px, 4px, rgb(49, 51, 52);
+    color: rgb(75, 81, 87);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    padding-left: 10px;
+}
+.ar-btn{
+     width: 300px;
+    margin-top: 5px;
+    margin-left: 290px !important;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-image:linear-gradient(to bottom right, #2e3192, #1bffff) ;
+    box-shadow:10px,black;
+    color: white;
+    font-size: .9rem;
+    
+}
+.ar-lin{
+    margin-top: 10px;
+    margin-left: 250px;
+    width: 360px;
+    height: 1px;
+    background-color: #0892d0;
+}
+.ar-box h1{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 100 !important;
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.2rem;
+}
+.ra p{
+    color: rgb(41, 100, 146);
+    
+}
+.ra .radi{
+    height: 20px !important;
+    width: 20px !important;
+    background-color: rgb(41, 100, 146) !important;
+
+}
+.ra{
+    padding-left: 80px;
+}
+.ex h1{
+    font-size: .9rem !important;
+    text-align: center !important;
+    font-weight: bold !important;
+}
+/*view receptionists*/
+th{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 900 !important;
+}
+td{
+    color: rgb(41, 100, 146) !important;
+}
+td a{
+    color: rgb(232, 8, 8) !important;
+}
+.ar-boxv{
+    height: 730px;
+    width: 1250px;
+    background-color: rgba(255, 255, 255, 0.703);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px rgb(0, 0, 0);
+}
+.ar-boxv h1{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 100 !important;
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.2rem;
+}
+/*update receptionist*/
+
+.ar-boxu{
+    height: 1100px;
+    width: 1100px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px rgb(0, 0, 0);
+}
+.ar-boxu h1{
+    color: rgb(41, 100, 146) !important;
+    font-weight: 100 !important;
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.2rem;
+}
+.aru-lob{
+    height:1200px !important;
+}
+.inf p{
+    color: #0892d0 !important;
+    padding-left: 20px !important;
+}
+.aru-btn{
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 370px !important;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-image:linear-gradient(to bottom right, #2e3192, #1bffff) ;
+    box-shadow:10px,black;
+    color: white;
+    font-size: .9rem;
+}
+.aru-lin{
+    margin-top: 10px;
+    margin-left: 330px;
+    width: 360px;
+    height: 1px;
+    background-color: #0892d0;
+}
